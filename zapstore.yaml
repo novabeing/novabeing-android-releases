@@ -1,12 +1,20 @@
 repository: https://github.com/novabeing/novabeing-android-releases
-description: NovaBeing is a platform for self-discovery through Human Design, Gene Keys, and conscious personal growth. Explore your unique design, gain deeper insight into your patterns and strenghts, and access tools that support alignment, clarity and transformation. Designed for seekers, creators, and conscious individuals who want practical insight into who they truly are.
-summary: Self-discovery through Human Design and Gene Keys
-website: https://novabeing.me
-tags: 
+release_source: https://github.com/novabeing/novabeing-android-releases
+match: "^novabeing-v[0-9]+\\.[0-9]+\\.[0-9]+\\.apk$"
+
+name: NovaBeing
+summary: Zachte Human Design tools voor gezinnen.
+description: |
+  NovaBeing helpt ouders, kinderen en tieners leven op hun eigen ritme met Human Design, zachte tools en bewuste keuzes voor lichaam en geest.
+
+  De Android app opent de NovaBeing memberomgeving in een rustige app-ervaring, met snelle toegang tot persoonlijke inzichten, tools, sessies en content.
+
+  Deze eerste Zap Store release is webapp-first: NovaBeing blijft centraal beheerd via novabeing.me en wordt verpakt als Android app voor eenvoudige installatie via Zap Store.
+tags:
+  - wellness
+  - education
+  - family
   - human-design
-  - gene-keys
-  - self-discovery
-  - spirituality
-  - personal-growth
-metadata_sources:
-    - github
+website: https://novabeing.me
+icon: public/icons/novabeing-512.png
+release_notes: docs/zapstore-release-notes.md
