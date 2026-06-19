@@ -1,19 +1,20 @@
 repository: https://github.com/novabeing/novabeing-android-releases
 release_source: https://github.com/novabeing/novabeing-android-releases
-match: "^novabeing-v[0-9]+\\.[0-9]+\\.[0-9]+\\.apk$"
-
+match: ^novabeing-v[0-9]+\.[0-9]+\.[0-9]+\.apk$
 name: NovaBeing
-summary: Zachte Human Design tools voor gezinnen.
 description: |
-  NovaBeing helpt ouders, kinderen en tieners leven op hun eigen ritme met Human Design, zachte tools en bewuste keuzes voor lichaam en geest.
+    NovaBeing helpt ouders, kinderen en tieners leven op hun eigen ritme met Human Design, zachte tools en bewuste keuzes voor lichaam en geest.
 
-  De Android app opent de NovaBeing memberomgeving in een rustige app-ervaring, met snelle toegang tot persoonlijke inzichten, tools, sessies en content.
+    De Android app opent de NovaBeing memberomgeving in een rustige app-ervaring, met snelle toegang tot persoonlijke inzichten, tools, sessies en content.
 
-  Deze eerste Zap Store release is webapp-first: NovaBeing blijft centraal beheerd via novabeing.me en wordt verpakt als Android app voor eenvoudige installatie via Zap Store.
+    Deze eerste Zap Store release is webapp-first: NovaBeing blijft centraal beheerd via novabeing.me en wordt verpakt als Android app voor eenvoudige installatie via Zap Store.
+summary: Zachte Human Design tools voor gezinnen.
 tags:
-  - wellness
-  - education
-  - family
-  - human-design
+    - wellness
+    - education
+    - family
+    - human-design
 website: https://novabeing.me
 icon: public/icons/novabeing-512.png
+metadata_sources:
+    - github
