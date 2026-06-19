@@ -1,15 +1,15 @@
 repository: https://github.com/novabeing/novabeing-android-releases
 release_source: https://github.com/novabeing/novabeing-android-releases
-match: ^novabeing-v[0-9]+\.[0-9]+\.[0-9]+\.apk$
-name: NovaBeing
-description: NovaBeing is a platform for self-discovery through Human Design, Gene Keys, and conscious personal growth. Explore your unique design, gain deeper insight into your patterns and strenghts, and access tools that support alignment, clarity and transformation. Designed for seekers, creators, and conscious individuals who want practical insight into who they truly are.
+match: "^novabeing-v[0-9]+\\.[0-9]+\\.[0-9]+\\.apk$"
+pubkey: npub1zhpw5sdpcts9ct5pymguhpxhf946k9v6ceq6l8mzx5yzycdsah9q0892nr
+description: NovaBeing is a platform for self-discovery through Human Design, Gene Keys, and conscious personal growth.
 summary: Self-discovery through Human Design and Gene Keys
-tags:
-    - wellness
-    - education
-    - family
-    - human-design
 website: https://novabeing.me
-icon: public/icons/novabeing-512.png
+tags:
+  - human-design
+  - gene-keys
+  - self-discovery
+  - spirituality
+  - personal-growth
 metadata_sources:
-    - github
+  - github
