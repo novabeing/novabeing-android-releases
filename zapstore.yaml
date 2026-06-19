@@ -1,0 +1,12 @@
+repository: https://github.com/novabeing/novabeing-android-releases
+description: NovaBeing is a platform for self-discovery through Human Design, Gene Keys, and conscious personal growth. Explore your unique design, gain deeper insight into your patterns and strenghts, and access tools that support alignment, clarity and transformation. Designed for seekers, creators, and conscious individuals who want practical insight into who they truly are.
+summary: Self-discovery through Human Design and Gene Keys
+website: https://novabeing.me
+tags: 
+  - human-design
+  - gene-keys
+  - self-discovery
+  - spirituality
+  - personal-growth
+metadata_sources:
+    - github
